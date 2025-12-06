@@ -1,31 +1,37 @@
 {
-  "licenses": [
-    {
-      "key": "fhhsbdfd22vd",
-      "device_id": "9e947ac4-0204-448a-ae11-16273c39d0f3",
-      "expiry_date": "2025-11-18",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-11-14",
-      "max_devices": 1
-    },
-    {
-      "key": "alpha@123",
-      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
-      "expiry_date": "2015-12-30",
-      "active": true,
-      "status": "active",
-      "created_date": "2024-01-15",
-      "max_devices": 1
-    },
-    {
-      "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
-      "expiry_date": "2024-12-31",
-      "active": false,
-      "status": "inactive",
-      "created_date": "2024-01-01",
-      "max_devices": 1
-    }
-  ]
+  "show": true,
+  "title": "●Pro Mod: Hacked Apps and Games●",
+  "version": "9",
+  "headline": "• Don't miss out! Join our Telegram channel to download the best premium modded apps. ",
+  "description": "•                                  𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 ",
+  "force": false,
+  "minVersion": "",
+  "credit": "AlmightyHackers",
+  "features": [
+    "• Hacked apps with the latest versions",
+    "• All app features are unlocked ",
+    
+  ],
+  "trial": {
+    "enabled": true,
+    "text": "𝗖𝗮𝗻𝗰𝗲𝗹",
+    "minutes": 216
+  },
+  "update": {
+    "text": "𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
+    "url": "https://t.me/AlmightyHackers"
+  },
+  "colors": {
+    "bgStart": "#000000",
+    "bgEnd": "#000000",
+    "border": "#CC0605",
+    "accent": "#03C03C",
+    "highlight": "#CC0605",
+    "muted": "#CC0605",
+    "divider": "#CC0605",
+    "textPrimary": "#F2F3F4",
+    "textSecondary": "#93C5FD",
+    "buttonTrial": "#CC0605",
+    "buttonUpdate": "#CC0605"
+  }
 }
