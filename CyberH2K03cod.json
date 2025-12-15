@@ -2,11 +2,11 @@
   "licenses": [
     {
       "key": "CODM-D4228CSB",
-      "device_id": "956416cf-e2a3-4603-be35-7c91295f54b1",
-      "expiry_date": "2025-12-16",
-      "active": false,
+      "device_id": "1ab984c9-df63-45f5-802e-9b4bf5923178",
+      "expiry_date": "2025-12-18",
+      "active": true,
       "status": "active",
-      "created_date": "2025-12-13",
+      "created_date": "2025-12-16",
       "max_devices": 1
     },
     {
